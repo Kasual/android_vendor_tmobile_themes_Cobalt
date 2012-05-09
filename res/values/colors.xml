@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="com_android_mms_text_hairline">#ffcccccc</color>
+    <color name="com_android_mms_list_background">#20000000</color>
+    <color name="com_android_mms_message_count_color">#66f5f5dc</color>
+    <color name="com_android_mms_timestamp_color">#ffffffff</color>
+    <color name="com_android_mms_unread_bgcolor">#50191919</color>
+    <color name="com_android_mms_read_bgcolor">#20000000</color>
+</resources>
