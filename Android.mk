@@ -1,7 +1,6 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_MODULE := Cobalt
 LOCAL_SRC_FILES := $(LOCAL_MODULE).apk
 LOCAL_PACKAGE_NAME := Cobalt
 LOCAL_MODULE_CLASS := APPS
